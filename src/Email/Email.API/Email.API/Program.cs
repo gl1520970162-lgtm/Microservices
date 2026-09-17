@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Net;
 using System.Net.Mail;
 using Email.API.Domain.AggregatesModel.EmailAggregate;
