@@ -13,10 +13,6 @@ Grpc：一般用于服务与服务间的通信，http2.X，可长连接。网络
 Controllers：Api首选，浏览器支持。短连接无状态。http1.X。Grpc和Controllers走的是不同类型的通信管道，大神可以自己定义管道类型，实现不同的通信方式。
 入口文件：src\Email\Email.API
 这个架构是参考微软官方推荐的购物架构做了轻微改造，曲向低代码。
-![微信](https://github.com/ZhuTaoJu/Microservices/assets/40855714/bb9dd2d3-6e25-4377-8670-baa4d2825eb5)
 
-![支付宝](https://github.com/ZhuTaoJu/Microservices/assets/40855714/d0acc94c-0182-4fea-aa3c-3e2b0b674556)
-
-![赞赏吗](https://github.com/ZhuTaoJu/Microservices/assets/40855714/d0e6845d-ca4e-4860-9449-f24a8bc2fc74)
 
 
